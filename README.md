@@ -1,6 +1,6 @@
 # Mean-Variance-Standard Deviation Calculator
 
-This project is part of the Data Analysis with Python certification from freeCodeCamp.
+This project is part of the **Data Analysis with Python** certification from freeCodeCamp.
 
 ## Project Description
 

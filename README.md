@@ -29,10 +29,10 @@ These calculations are performed across:
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/mean-variance-standard-deviation-calculator.git
+   git clone https://github.com/MarekGabriel/FreeCodeCamp_mean-variance-standard-deviation-calculator.git
 
 2. Navigate to the project folder:
-   cd mean-variance-standard-deviation-calculator
+   cd FreeCodeCamp_mean-variance-standard-deviation-calculator
 
 3. Run the script:
    python mean_var_std.py
